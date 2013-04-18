@@ -1,4 +1,3 @@
-
 Buildgem
 ========
 
@@ -7,22 +6,12 @@ Buildgem
 Description
 -----------
 
+My personal template for a typical gem.
+
 Installation
 ------------
 
     gem install buildgem
-
-Synopsis
---------
-
-Limitations
------------
-
-Credits
--------
-
-Licence
--------
 
 The project uses Zlib licence. See LICENCE file for more information.
 
