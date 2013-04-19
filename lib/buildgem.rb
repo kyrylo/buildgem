@@ -117,7 +117,7 @@ pkg/
 
     def gemfile
       <<-BODY
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 gemspec
       BODY
     end
